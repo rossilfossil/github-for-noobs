@@ -3,8 +3,7 @@
 		<title> Github for Noobs</title>
 	</head>
 	<body>
-		<div>
-			Hello World	
+		<div>	
 		</div>
 	</body>
 </html>
